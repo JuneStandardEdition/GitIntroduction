@@ -1,0 +1,2 @@
+# GitIntroduction
+For educational purposes
